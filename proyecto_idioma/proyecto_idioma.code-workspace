@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../traductor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "solfi.pertuz"
+	}
+}
